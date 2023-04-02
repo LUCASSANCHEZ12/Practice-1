@@ -1,0 +1,2 @@
+# Add ".gitignore" file to ignore (avoid tracking): "build" folder
+build/
